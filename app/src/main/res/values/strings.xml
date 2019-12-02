@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BD Equipos</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="establecerUrl">Introduce tu URL</string>
+    <string name="urls">URL\'s</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="nombreE">Nombre del Equipo: </string>
+    <string name="ciudadE">Ciudad del Equipo: </string>
+    <string name="estadioE">Estadio del Equipo: </string>
+    <string name="aforoE">Aforo del Equipo: </string>
+    <string name="editarSelectedE">Editar Equipo</string>
+    <string name="editarE">Editar</string>
+    <string name="borrarSelectedE">Borrar Equipo</string>
+    <string name="verJugadoresSelected">Ver Jugadores</string>
+    <string name="errorFoto">Selecciona una foto para el equipo</string>
+    <string name="errorNombre">Inserta un nombre para el equipo</string>
+    <string name="errorCiudad">Inserta la ciudad del equipo</string>
+    <string name="errorEstadio">Inserta el estadio del equipo</string>
+    <string name="errorAforo">Inserta el aforo del equipo</string>
+    <string name="borrarEquipoCheck">¿Borrar este equipo?</string>
+    <string name="borrarEquipoTitle">Borrar Equipo</string>
+    <string name="borrarEquipoSi">Si</string>
+    <string name="borrarEquipoNo">No</string>
+    <string name="editarEquipoCheck">¿Confirmar la edicion de este equipo? </string>
+    <string name="editarEquipoTitle">Editar Equipo</string>
+    <string name="editarEquipoSi">Si</string>
+    <string name="editarEquipoNo">No</string>
+    <string name="crearE">Crear equipo</string>
+    <string name="crearJ">Crear jugador</string>
+    <string name="nombreJ">Nombre del Jugador</string>
+    <string name="apellidosJ">Apellidos del Jugador</string>
+    <string name="errorNombreJ">Inserta el nombre del jugador</string>
+    <string name="errorApellidos">Inserta los apellidos del jugador</string>
+    <string name="borrarJugadorCheck">¿Borrar este jugador? </string>
+    <string name="borrarJugadorTitle">Borrar Jugador</string>
+    <string name="borrarJugadorSi">Si</string>
+    <string name="borrarJugadorNo">No</string>
+    <string name="editarJugadorCheck">¿Confirmar la edicion de este jugador? </string>
+    <string name="editarJugadorTitle">Editar Jugador</string>
+    <string name="editarJugadorSi">Si</string>
+    <string name="editarJugadorNo">No</string>
+    <string name="todo">TODO</string>
+
+</resources>
